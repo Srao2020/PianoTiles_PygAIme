@@ -173,7 +173,7 @@ def ai_click_tile(action):
             streak += 1  # Increment streak for consecutive correct actions
             return 1  # Correct action, tile clicked
     streak = 0  # Reset streak on incorrect action
-    return -1  # Wrong action, no tile in that row
+    return 0  # Wrong action, no tile in that row
 
 
 # Draw the game elements
