@@ -1,4 +1,4 @@
-# Tiles AI Game with Deep Q-Network (DQN)
+# Falling Tiles AI 
 
 ## Overview
 
