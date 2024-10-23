@@ -1,4 +1,5 @@
 # Falling Tiles AI 
+I chose this game because I love playing piano tiles and it's had a relatively simple game structure that can be made more difficult. 
 
 ## Overview
 
@@ -52,12 +53,6 @@ This AI agent uses a Deep Q-Network (DQN) to learn optimal actions to maximize i
 - The score increases by 1 for each correct tile clicked.
 - The game becomes progressively harder as the score increases.
 - The AI agent learns to click the correct tiles and maximizes its reward over time.
-
-### File Descriptions
-- **main.py**: Contains the main game loop and logic for the tile-clicking game.
-- **dqn_agent.py**: Implements the DQN agent for reinforcement learning.
-- **utils.py**: Provides utility functions for drawing, sound effects, and color management.
-- **sounds/**: A folder containing sound effects used in the game (e.g., tile clicks, game over sounds).
 
 ### Future Enhancements
 - **Human-AI Interaction**: Allow human players to compete against the AI in real-time.
