@@ -1,5 +1,4 @@
 # Falling Tiles AI 
-I chose this game because I love playing piano tiles and it has a relatively simple game structure that can be made more difficult. 
 
 ## Overview
 
