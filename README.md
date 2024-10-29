@@ -57,6 +57,7 @@ This AI agent uses a Deep Q-Network (DQN) to learn optimal actions to maximize i
 - **Human-AI Interaction**: Allow human players to compete against the AI in real-time.
 - **Enhanced State Representation**: Add more features (e.g., more tile colors, speed) to improve the agent's learning.
 - **More Game Levels**: Implement multiple levels of increasing difficulty (more tiles, more double clicks, different backgrounds) for both the AI and human player.
+- **A Hold Tile**: Adding a tile which you have to hold down for a couple frames for added complexity.
 
 ## Project Collaboration
 - **dmitchelldm74/Tiles-pygame** for pygame game inspiration (built the current game off of this)
